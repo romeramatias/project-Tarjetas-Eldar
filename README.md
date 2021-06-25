@@ -8,6 +8,6 @@ Se deberá enviar por  el **Body** un **JSON** con el siguiente esquema:
       "importe" : 1000
 	}
 
-> Ruta -> 
+> Ruta -> https://frozen-depths-70622.herokuapp.com/tasa
 >
 > Tipos de tarjetas -> AMEX, VISA y NARA
